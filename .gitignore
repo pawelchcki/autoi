@@ -1,2 +1,5 @@
-libexample.so
+/libexample.so
+/libexample.so.*
+/app.*
+/app
 .envrc
